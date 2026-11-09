@@ -1,0 +1,11 @@
+# Environment variables (secrets)
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Local Claude Code settings
+.claude/settings.local.json
